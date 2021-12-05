@@ -1,7 +1,7 @@
 verbose = False
 bookmarks_folder = "knihy"
-bookmarks_path = "C:\\Users\\jenda\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Bookmarks"
+bookmarks_path = "path of chrome bookmarks"
 
 # Picture resolution: 550x550
-gui_background = "C:\\Python\\VS\\chrome_bookmarks\\back.png"
+gui_background = "path of the background picture"
 
