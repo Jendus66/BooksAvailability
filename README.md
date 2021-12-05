@@ -20,7 +20,7 @@ If you run a program kkVysociny.py a graphical user interface will initiate. You
 5) Save data from the library catalog as list of dictionaries - dictionary contains: books name with author, books library url, books status (available, not available), terms when book is returned back to library
 6) Show data from the previous step via gui (picture below)
 
-**Why the kitten on the program background picture? My girlfriend just love kittens so what you can do.. **
+<i>Why the kitten on the picture? My girlfriend just love kittens so what can you do.. </i>
 
 ![Screenshot](gui_books_git.png)<br>
 Data from the last step are shown in tkinter scrollable window. Window is split into 4 columns.
